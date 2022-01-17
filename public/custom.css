@@ -1,0 +1,22 @@
+.my_bg{
+    background-color: #cdcdcd;
+    border-radius: 15px;
+    box-shadow: 0px 0px 10px 1px #858383;
+    top : 10%;
+    left : 33%;
+    z-index: 1;
+}
+
+
+.my_width{
+    width : 40vw!important;
+}
+ 
+*{
+    font-family: 'Roboto Mono', monospace;
+}
+
+tbody{
+    height: 500px;
+    overflow-y: hidden;
+}
